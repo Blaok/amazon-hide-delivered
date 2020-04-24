@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Hide delivered items on amazon.com.
 // @author       Blaok Chi
-// @match        https://www.amazon.com/gp/your-account/order-history*
+// @match        https://www.amazon.com/gp/*/order-history*
 // @grant        none
 // ==/UserScript==
 
